@@ -1,0 +1,10 @@
+.bg-nav {
+    background: linear-gradient(45deg,darkred,red);
+}
+.input1{
+    border: none;
+    padding: 0;
+}
+.input1:active{
+    border: transparent !important;
+}
